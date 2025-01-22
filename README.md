@@ -13,3 +13,5 @@ You can select from three size of brush sizes using the slider button.
 Long press on a color and you are presented with different shade of the color.  
 
 <img src = "BrushDraw color.jpg" />  
+
+<img src = "BrushDraw toolbars.jpg" />  
