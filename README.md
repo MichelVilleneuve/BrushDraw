@@ -1,4 +1,7 @@
 # BrushDraw  
+[Back to Main](https://michelvilleneuve.github.io/)  
+
+
 BrushDraw is a small and simple paint application.  
 
 <img src = "BrushDraw.jpg" />  
