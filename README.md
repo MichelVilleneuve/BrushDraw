@@ -6,7 +6,7 @@ BrushDraw is a small and simple paint application.
 
 <img src = "BrushDraw.jpg" />  
 
-You can select from three size of brush sizes.  
+You can select from three size of brush sizes using the slider button.  
 
 <img src = "BrushDraw lines.jpg" />  
 
